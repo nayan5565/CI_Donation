@@ -1,0 +1,27 @@
+.buttonPad {
+    padding: 12px;
+    background-color: red;
+    color: white;
+    font-size: 60px;
+}
+
+.heading {
+    margin-right: 12;
+    background-color: red;
+    color: red;
+    font-size: 40px;
+}
+
+.btnCancel {
+    margin-right: 12px;
+    background-color: red;
+    color: white;
+    border-color: rebeccapurple;
+    display: inline-block;
+    border-radius: 5px;
+    border-width: 0px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 14px;
+    padding-right: 14px;
+}
